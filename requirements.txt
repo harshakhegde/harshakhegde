@@ -41,3 +41,4 @@ tqdm==4.46.0
 urllib3==1.25.8
 webencodings==0.5.1
 zipp==3.1.0
+mkdocs-material
