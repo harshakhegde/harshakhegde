@@ -1,0 +1,23 @@
+site_name: harshaheg.de
+site_url: https://www.harshaheg.de
+site_description: A curious life
+site_author: Harsha Hegde
+docs_dir: home
+site_dir: public
+repo_url: https://github.com/harshakhegde/harshahegde.mkdocs
+edit_uri: blob/master/home/
+plugins:
+  - search
+  - git-revision-date:
+      as_datetime: true
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+        guess_lang: true
+theme:
+  # name: 'mkdocs'
+  name: null
+  custom_dir: cinder
+  language: 'en'
+  highlightjs: true
