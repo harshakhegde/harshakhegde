@@ -1,3 +1,0 @@
-# Places Visited
-## India
-## Europe
